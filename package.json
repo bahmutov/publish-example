@@ -1,0 +1,21 @@
+{
+  "name": "@bahmutov/publish-example",
+  "version": "1.0.0",
+  "description": "Example NPM module",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/publish-example.git"
+  },
+  "keywords": [],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com> (https://glebbahmutov.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/publish-example/issues"
+  },
+  "homepage": "https://github.com/bahmutov/publish-example#readme"
+}
